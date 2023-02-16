@@ -1,0 +1,8 @@
+[thresholds]
+cpu = 90
+memory = 2000
+disk = 5
+
+[notifications]
+mattermost_url = https://your-mattermost-url.com/hooks/your-hook-id
+
